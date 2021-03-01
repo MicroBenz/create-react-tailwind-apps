@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 import App from './features/app/components/App';
 import * as serviceWorker from './serviceWorker';
-import './tailwind.generated.css';
+import './tailwind.css';
 import { BrowserRouter } from 'react-router-dom';
 
 // If you want your app to work offline and load faster, you can change
